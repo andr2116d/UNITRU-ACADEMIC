@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Escudo heráldico — forma del escudo UNT -->
+  <path d="M3,3 H29 V20 Q29,29 16,31 Q3,29 3,20 Z" fill="#FFD200"/>
+  <!-- Letra U en el interior del escudo -->
+  <path d="M9,7 H13 V19 Q13,23 16,24.5 Q19,23 19,19 V7 H23 V19 Q23,28 16,29.5 Q9,28 9,19 Z" fill="#0B0F14"/>
+</svg>

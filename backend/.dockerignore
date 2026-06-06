@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.git/
+.pytest_cache/
+tests/
+# Datos crudos del catálogo: en runtime solo se necesita el JSON ya parseado.
+data/horarios_csv/

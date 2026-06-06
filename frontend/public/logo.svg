@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- ───── Ala izquierda (grifo simplificado) ───── -->
+  <path d="M6,62 Q2,46 6,22 Q10,8 18,16 Q12,28 11,62 Z" fill="#C4A800" opacity="0.7"/>
+  <path d="M4,58 Q0,40 5,18 Q9,6 16,14 Q10,26 9,58 Z" fill="#FFD200" opacity="0.5"/>
+
+  <!-- ───── Escudo central ───── -->
+  <path d="M16,4 H56 V48 Q56,72 36,78 Q16,72 16,48 Z" fill="#FFD200"/>
+  <!-- Franja horizontal interna (detalle heráldico) -->
+  <rect x="16" y="30" width="40" height="4" fill="#C4A800" opacity="0.4"/>
+  <!-- Letra U en el escudo -->
+  <path d="M23,11 H28 V44 Q28,52 36,55 Q44,52 44,44 V11 H49 V44 Q49,60 36,63 Q23,60 23,44 Z" fill="#0B0F14"/>
+
+  <!-- ───── Ala derecha (grifo simplificado) ───── -->
+  <path d="M66,62 Q70,46 66,22 Q62,8 54,16 Q60,28 61,62 Z" fill="#C4A800" opacity="0.7"/>
+  <path d="M68,58 Q72,40 67,18 Q63,6 56,14 Q62,26 63,58 Z" fill="#FFD200" opacity="0.5"/>
+
+  <!-- ───── Wordmark ───── -->
+  <text x="88" y="36"
+    font-family="'Georgia', 'Times New Roman', serif"
+    font-size="22" font-weight="700"
+    fill="#0B0F14" letter-spacing="1">UNITRU</text>
+  <text x="88" y="58"
+    font-family="'Georgia', 'Times New Roman', serif"
+    font-size="16" font-weight="400"
+    fill="#5E5E5E" letter-spacing="2">ACADEMIC</text>
+  <!-- Línea separadora -->
+  <rect x="88" y="63" width="140" height="1" fill="#FFD200"/>
+</svg>

@@ -1,0 +1,26 @@
+# Levanta backend y frontend por separado.
+#   docker compose up --build
+# Luego abrir http://localhost:3000 (el navegador habla WS con el backend en :8000).
+services:
+  backend:
+    build: ./backend
+    image: unitru-academic-backend
+    ports:
+      - "8000:8000"
+    environment:
+      # Orígenes permitidos por CORS (separados por coma) — ver src/main.py.
+      ALLOWED_ORIGINS: "http://localhost:3000"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        # Se incrusta en build; el navegador del alumno se conecta a esta URL.
+        NEXT_PUBLIC_BACKEND_WS_URL: "ws://localhost:8000/ws"
+    image: unitru-academic-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped

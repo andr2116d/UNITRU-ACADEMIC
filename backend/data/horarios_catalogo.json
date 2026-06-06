@@ -1,0 +1,3609 @@
+{
+  "fuente": "horarios.xlsx",
+  "generado": "2026-06-05",
+  "secciones": [
+    {
+      "hoja": "Ciclo I - A",
+      "ciclo": "I",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/08/2026",
+      "cursos": [
+        {
+          "curso": "Introducción a la Ingeniería",
+          "docente": "Ms. Jorge Guillermo Zamalloa Barrera",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Química General I",
+          "docente": "Ms. Segundo Juan Diaz Camacho",
+          "t": 2,
+          "p": 3,
+          "l": 3
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "docente": "Dr. Jorge David Rios Gonzales",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "docente": "Ms. Julio César Matute Calderón",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "docente": "Mg. José Luis Ponte Bejarano",
+          "t": 1,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "docente": "Mg. Gustavo Adolfo Benites Jara",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Técnicas de Comunicación Eficaz",
+          "docente": "Dr. Kilver Manuel Fasanando Lescano",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Música",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Teatro",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Deporte",
+          "docente": "Dr. Alberto William Collazos Ortega",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Química General I",
+          "tipo": "Teoría y Práctica",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Segundo Juan Diaz Camacho"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Segundo Juan Diaz Camacho"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-4",
+          "subgrupo": "G1",
+          "docente": "Ms. Jorge Guillermo Zamalloa Barrera"
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Mg. José Luis Ponte Bejarano"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-4",
+          "subgrupo": "G2",
+          "docente": "Ms. Jorge Guillermo Zamalloa Barrera"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Jorge Guillermo Zamalloa Barrera"
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Teoría y Práctica",
+          "dia": "Miércoles",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Mg. José Luis Ponte Bejarano"
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Julio César Matute Calderón"
+        },
+        {
+          "curso": "Taller de Música",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Química General I",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Segundo Juan Diaz Camacho"
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Mg. Gustavo Adolfo Benites Jara"
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Dr. Jorge David Rios Gonzales"
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Julio César Matute Calderón"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Segundo Juan Diaz Camacho"
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Mg. Gustavo Adolfo Benites Jara"
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Dr. Jorge David Rios Gonzales"
+        }
+      ]
+    },
+    {
+      "hoja": "CIclo IV - B",
+      "ciclo": "IV",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2024",
+      "semestre": "II",
+      "periodo": "09/09/2024  -  27/12/2024",
+      "cursos": [
+        {
+          "curso": "Química Orgánica II",
+          "docente": null,
+          "t": 1,
+          "p": 2,
+          "l": 4
+        },
+        {
+          "curso": "Físicoquimica II",
+          "docente": null,
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Química Inorgánica",
+          "docente": null,
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Fenómenos de Transporte",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Diseño Asistido por Compuitadora",
+          "docente": null,
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Prep. Mec. y Flot. de Minerales (e)",
+          "docente": null,
+          "t": 2,
+          "p": 0,
+          "l": 2
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Físicoquimica II",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Físicoquimica II",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Orgánica II",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Físicoquimica II",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Orgánica II",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Inorgánica",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Orgánica II",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Inorgánica",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Orgánica II",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Prep. Mec. y Flot. de Minerales (e)",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Prep. Mec. y Flot. de Minerales (e)",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Inorgánica",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Fenómenos de Transporte",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Diseño Asistido por Compuitadora",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Inorgánica",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Físicoquimica II",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química Orgánica II",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "19:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Fenómenos de Transporte",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Fenómenos de Transporte",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": null
+        }
+      ]
+    },
+    {
+      "hoja": "CIclo VI - A ",
+      "ciclo": "VI",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2024",
+      "semestre": "II",
+      "periodo": "09/09/2024  -  27/12/2024",
+      "cursos": [
+        {
+          "curso": "Transferencia de Masa I",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Termodinámica II",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Lab. Operaciones Unitarias I",
+          "docente": null,
+          "t": 0,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "docente": null,
+          "t": 2,
+          "p": 0,
+          "l": 4
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Lab. Operaciones Unitarias I",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "09:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "I-1",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-1",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "I-1",
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo I - B",
+      "ciclo": "I",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/08/2026",
+      "cursos": [
+        {
+          "curso": "Introducción a la Ingeniería",
+          "docente": "Dr. Antonio Manuel Otoya Zelada",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Química General I",
+          "docente": "Dr. Nelson Willians Farro Pérez",
+          "t": 2,
+          "p": 3,
+          "l": 3
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "docente": "Dr. Roger Samuel Hernández Natividad",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "docente": "Mg. Marcos Enrique Ferrer Reyna",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "docente": "Ms. Rocío del Pilar Rojas Jara",
+          "t": 1,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "docente": "Mg. Gustavo Adolfo Benites Jara",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Técnicas de Comunicación Eficaz",
+          "docente": "Dr. Kilver Manuel Fasanando Lescano",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Música",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Teatro",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Deporte",
+          "docente": "Dr. Alberto William Collazos Ortega",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Química General I",
+          "tipo": "Teoría y Práctica",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Nelson Willians Farro Pérez"
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Teoría y Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Rocío del Pilar Rojas Jara"
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Mg. Marcos Enrique Ferrer Reyna"
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": "G2",
+          "docente": "Mg. Marcos Enrique Ferrer Reyna"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Nelson Willians Farro Pérez"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-1",
+          "subgrupo": "G1",
+          "docente": "Dr. Antonio Manuel Otoya Zelada"
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-3",
+          "subgrupo": "G2",
+          "docente": "Dr. Antonio Manuel Otoya Zelada"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Antonio Manuel Otoya Zelada"
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Rocío del Pilar Rojas Jara"
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-5",
+          "subgrupo": "G1",
+          "docente": "Mg. Marcos Enrique Ferrer Reyna"
+        },
+        {
+          "curso": "Taller de Música",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Química General I",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "15:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Dr. Nelson Willians Farro Pérez"
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Roger Samuel Hernández Natividad"
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Mg. Gustavo Adolfo Benites Jara"
+        },
+        {
+          "curso": "Lectura Crítica y Redacción Textos Académicos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Roger Samuel Hernández Natividad"
+        },
+        {
+          "curso": "Desarrollo Personal",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Mg. Gustavo Adolfo Benites Jara"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo I - C",
+      "ciclo": "I",
+      "grupo": "3",
+      "seccion": "C",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/08/2026",
+      "cursos": [
+        {
+          "curso": "Introducción a la Ingeniería",
+          "docente": "Ms. Johony Ramón Cuba García",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Química General I",
+          "docente": "Ms. Patricia Carranza Vílchez",
+          "t": 2,
+          "p": 3,
+          "l": 3
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "docente": "Ms. Julio César Agustín Sangay",
+          "t": 2,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "docente": "Ms. George William Alama Quiroz",
+          "t": 1,
+          "p": 4,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Técnicas de Comunicación Eficaz",
+          "docente": "Dr. Kilver Manuel Fasanando Lescano",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Música",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Teatro",
+          "docente": null,
+          "t": 0,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Taller de Deporte",
+          "docente": "Dr. Alberto William Collazos Ortega",
+          "t": 0,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Teoría y Práctica",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. Julio César Agustín Sangay"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "08:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "08:00",
+          "fin": "10:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "10:00",
+          "fin": "11:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Introducción al Análisis Matemático",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Julio César Agustín Sangay"
+        },
+        {
+          "curso": "Química General I",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. George William Alama Quiroz"
+        },
+        {
+          "curso": "Taller de Música",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Taller de Liderazgo y Trabajo en Equipo",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Desarrollo del Pensamiento Lógico Matemático",
+          "tipo": "Teoría y Práctica",
+          "dia": "Lunes",
+          "inicio": "15:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. George William Alama Quiroz"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "Q-4",
+          "subgrupo": "G1",
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Introducción a la Ingeniería",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "Q-4",
+          "subgrupo": "G2",
+          "docente": "Ms. Johony Ramón Cuba García"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo III - A",
+      "ciclo": "III",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Química Orgánica I",
+          "docente": "Ms. Segundo Juan Saldaña Saavedra",
+          "t": 1,
+          "p": 2,
+          "l": 4
+        },
+        {
+          "curso": "Físicoquímica I",
+          "docente": "Dr. Wilson Reyes Lázaro",
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Balance de Materia y Energía",
+          "docente": "Dr. Pedro Quiñones Paredes",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "docente": "Dr. Guillermo David Evangelista Benites",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Física General II",
+          "docente": "Ms. Paulino Waimer Sánchez Sandoval",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Recursos Naturales",
+          "docente": "Ms. Nancy Elizabeth Alva Ahón",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Dr. Guillermo David Evangelista Benites"
+        },
+        {
+          "curso": "Recursos Naturales",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. Nancy Elizabeth Alva Ahón"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Wilson Reyes Lázaro"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Teoría",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Wilson Reyes Lázaro"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Wilson Reyes Lázaro"
+        },
+        {
+          "curso": "Balance de Materia y Energía",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Dr. Pedro Quiñones Paredes"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Teoría y Práctica",
+          "dia": "Martes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. Segundo Juan Saldaña Saavedra"
+        },
+        {
+          "curso": "Física General II",
+          "tipo": "Teoría",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Paulino Waimer Sánchez Sandoval"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Segundo Juan Saldaña Saavedra"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Ms. Segundo Juan Saldaña Saavedra"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Segundo Juan Saldaña Saavedra"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo III - B",
+      "ciclo": "III",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Química Orgánica I",
+          "docente": "Dr. Mario Eduardo Alva Astudillo",
+          "t": 1,
+          "p": 2,
+          "l": 4
+        },
+        {
+          "curso": "Físicoquímica I",
+          "docente": "Ms. Ernesto Segundo Wong López",
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Balance de Materia y Energía",
+          "docente": "Dr. Percy Danilo Aguilar Rojas",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza / Willian Blas",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Física General II",
+          "docente": "Ms. Denis Manuel Abanto González",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Recursos Naturales",
+          "docente": "Dr. Napoleón Segundo Yupanqui Gil",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Mario Eduardo Alva Astudillo"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Mario Eduardo Alva Astudillo"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Dr. Mario Eduardo Alva Astudillo"
+        },
+        {
+          "curso": "Física General II",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Denis Manuel Abanto González"
+        },
+        {
+          "curso": "Física General II",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Denis Manuel Abanto González"
+        },
+        {
+          "curso": "Balance de Materia y Energía",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-2",
+          "subgrupo": "G1",
+          "docente": "Dr. Percy Danilo Aguilar Rojas"
+        },
+        {
+          "curso": "Física General II",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Ms. Denis Manuel Abanto González"
+        },
+        {
+          "curso": "Química Orgánica I",
+          "tipo": "Teoría y Práctica",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Mario Eduardo Alva Astudillo"
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Dr. Wilber Alamiro Loyola Carranza / Willian Blas"
+        },
+        {
+          "curso": "Física General II",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Denis Manuel Abanto González"
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza / Willian Blas"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Ernesto Segundo Wong López"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Ernesto Segundo Wong López"
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza / Willian Blas"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Ernesto Segundo Wong López"
+        },
+        {
+          "curso": "Recursos Naturales",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Dr. Napoleón Segundo Yupanqui Gil"
+        },
+        {
+          "curso": "Balance de Materia y Energía",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": "Dr. Percy Danilo Aguilar Rojas"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": "Ms. Ernesto Segundo Wong López"
+        },
+        {
+          "curso": "Métodos Numéricos para Ingeniería Química",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza / Willian Blas"
+        },
+        {
+          "curso": "Físicoquímica I",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Ms. Ernesto Segundo Wong López"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo V - A",
+      "ciclo": "V",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Materiales de Ingeniería",
+          "docente": "Ms. Patricia Carranza Vílchez",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Termodinámica I",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "docente": "Dr. Guillermo David Evangelista Benites",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "docente": "Ms. Paul Henry Esquerre Pereyra",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "docente": "Ms. Jorge Daniel Torres Alvarez",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Química Analítica",
+          "docente": "Dr. Noe Ildefonso Costilla Sánchez",
+          "t": 2,
+          "p": 0,
+          "l": 4
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Noe Ildefonso Costilla Sánchez"
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-2",
+          "subgrupo": "G1",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Guillermo David Evangelista Benites"
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-2",
+          "subgrupo": "G2",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Dr. Guillermo David Evangelista Benites"
+        },
+        {
+          "curso": "Materiales de Ingeniería",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Patricia Carranza Vílchez"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Guillermo David Evangelista Benites"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Ms. Jorge Daniel Torres Alvarez"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-5",
+          "subgrupo": "G3",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Dr. Noe Ildefonso Costilla Sánchez"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Noe Ildefonso Costilla Sánchez"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Noe Ildefonso Costilla Sánchez"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Jorge Daniel Torres Alvarez"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Jorge Daniel Torres Alvarez"
+        }
+      ]
+    },
+    {
+      "hoja": "CIclo VI - B",
+      "ciclo": "VI",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2024",
+      "semestre": "II",
+      "periodo": "09/09/2024  -  27/12/2024",
+      "cursos": [
+        {
+          "curso": "Transferencia de Masa I",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Termodinámica II",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Lab. Operaciones Unitarias I",
+          "docente": null,
+          "t": 0,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "docente": null,
+          "t": 2,
+          "p": 0,
+          "l": 4
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-2",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Termodinámica II",
+          "tipo": "Teoría",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Cinética y Catálisis",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-5",
+          "subgrupo": "G3",
+          "docente": null
+        },
+        {
+          "curso": "Lab. Operaciones Unitarias I",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Análisis Químico Instrumental",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Análisis Estad. y Diseño de Experim.",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Transferencia de Masa I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "I-2",
+          "subgrupo": "G2",
+          "docente": null
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo V - B",
+      "ciclo": "V",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Materiales de Ingeniería",
+          "docente": "Dr. Nelson Willians Farro Pérez",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Termodinámica I",
+          "docente": "Dr. Jorge Enrique Flores Franco",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "docente": "Ms. Johony Ramón Cuba García",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "docente": "Dr. Luis David Moncada Torres",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "docente": "Dr. Luis Enrique Alfaro García",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Química Analítica",
+          "docente": "Dr. José Félix Rivero Méndez",
+          "t": 2,
+          "p": 0,
+          "l": 4
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. José Félix Rivero Méndez"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. José Félix Rivero Méndez"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Dr. José Félix Rivero Méndez"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Luis Enrique Alfaro García"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Luis Enrique Alfaro García"
+        },
+        {
+          "curso": "Materiales de Ingeniería",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "11:00",
+          "fin": "12:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Nelson Willians Farro Pérez"
+        },
+        {
+          "curso": "Química Analítica",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. José Félix Rivero Méndez"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-2",
+          "subgrupo": "G3",
+          "docente": "Dr. Jorge Enrique Flores Franco"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-2",
+          "subgrupo": "G1",
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "Q-3",
+          "subgrupo": "G1",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Materiales de Ingeniería",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Nelson Willians Farro Pérez"
+        },
+        {
+          "curso": "Electricidad Aplicada",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Dr. Luis Enrique Alfaro García"
+        },
+        {
+          "curso": "Transferencia de Calor",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "I-2",
+          "subgrupo": "G2",
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "Q-3",
+          "subgrupo": "G2",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Mecánica de Fluidos",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Dr. Jorge Enrique Flores Franco"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": "Dr. Jorge Enrique Flores Franco"
+        },
+        {
+          "curso": "Termodinámica I",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": "Dr. Jorge Enrique Flores Franco"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo VII - A",
+      "ciclo": "VII",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Topicos Avanzados de Ingeniería",
+          "docente": "Ms. Johony Ramón Cuba García",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Diseño de Reactores Quimicos",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz",
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez",
+          "t": 2,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "docente": "Ms. Hans Roger Portilla Rodríguez",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Transferencia de Masa II",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Dr. Wilber Alamiro Loyola Carranza"
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza"
+        },
+        {
+          "curso": "Diseño de Reactores Quimicos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Topicos Avanzados de Ingeniería",
+          "tipo": null,
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": "Ms. Johony Ramón Cuba García"
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Teoría",
+          "dia": "Viernes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": "Dr. Wilber Alamiro Loyola Carranza"
+        },
+        {
+          "curso": "Diseño de Reactores Quimicos",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "12:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Diseño de Reactores Quimicos",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Ms. Rosa Elizabeth Nomberto Torres"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": "Práctica",
+          "dia": "Lunes",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": "I-2",
+          "subgrupo": "G1",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "15:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": "Práctica",
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "I-2",
+          "subgrupo": "G2",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        }
+      ]
+    },
+    {
+      "hoja": "CIclo VIII - A  ",
+      "ciclo": "VIII",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2024",
+      "semestre": "II",
+      "periodo": "09/09/2024  -  27/12/2024",
+      "cursos": [
+        {
+          "curso": "Laboratorio de Operaciones Unitarias II",
+          "docente": null,
+          "t": 0,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Mod.,Simulación y Control de Procesos",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Bioprocesos",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Economía d Proy. y Anális. d Costos",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Sistema Integrado de Gestión (e )",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Mod.,Simulación y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Laboratorio de Operaciones Unitarias II",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "10:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Economía d Proy. y Anális. d Costos",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "08:00",
+          "fin": "09:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-5",
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Sistema Integrado de Gestión (e )",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "10:00",
+          "fin": "13:00",
+          "aula": "Q-3",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Economía d Proy. y Anális. d Costos",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "Q-5",
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Mod.,Simulación y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "15:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Mod.,Simulación y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Mod.,Simulación y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Miércoles",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": null
+        }
+      ]
+    },
+    {
+      "hoja": "CIclo VIII - B",
+      "ciclo": "VIII",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2024",
+      "semestre": "II",
+      "periodo": "09/09/2024  -  27/12/2024",
+      "cursos": [
+        {
+          "curso": "Lab. de Operaciones Unitarias II",
+          "docente": null,
+          "t": 0,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Mod. Simulac. y Control de Procesos",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 2
+        },
+        {
+          "curso": "Bioprocesos",
+          "docente": null,
+          "t": 3,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Economía d Proy. y Análisis d Costos",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Sistema Integrado de Gestión (e )",
+          "docente": null,
+          "t": 3,
+          "p": 0,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Mod. Simulac. y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Laboratorio",
+          "dia": "Viernes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Lab. de Operaciones Unitarias II",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Sistema Integrado de Gestión (e )",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Mod. Simulac. y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Economía d Proy. y Análisis d Costos",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "tipo": "Laboratorio",
+          "dia": "Martes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Mod. Simulac. y Control de Procesos",
+          "tipo": "Laboratorio de Simulación",
+          "dia": "Jueves",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": null
+        },
+        {
+          "curso": "Bioprocesos",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "17:00",
+          "fin": "20:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": null
+        },
+        {
+          "curso": "Procesos Industriales II",
+          "tipo": "Laboratorio",
+          "dia": "Lunes",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": null
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo VII - B",
+      "ciclo": "VII",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Topicos Avanzados de Ingeniería",
+          "docente": "Ms. Willian Antonio Blas Roeder",
+          "t": 3,
+          "p": 0,
+          "l": 0
+        },
+        {
+          "curso": "Diseño de Reactores Quimicos",
+          "docente": "Dr. Jorge Enrique Flores Franco",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre",
+          "t": 2,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre",
+          "t": 2,
+          "p": 0,
+          "l": 4
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "docente": "Dr. Percy Danilo Aguilar Rojas",
+          "t": 3,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "docente": "Ms. Hans Roger Portilla Rodríguez",
+          "t": 2,
+          "p": 0,
+          "l": 2
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "I-2",
+          "subgrupo": null,
+          "docente": "Dr. Percy Danilo Aguilar Rojas"
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Topicos Avanzados de Ingeniería",
+          "tipo": null,
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Willian Antonio Blas Roeder"
+        },
+        {
+          "curso": "Procesos Unitarios Metalurgicos (e)",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Hans Roger Portilla Rodríguez"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-5",
+          "subgrupo": null,
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-1",
+          "subgrupo": "G1",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": null,
+          "dia": "Lunes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Microbiologia Industrial",
+          "tipo": null,
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Procesos Industriales I",
+          "tipo": null,
+          "dia": "Martes",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Teresa Consuelo Chú Esquerre"
+        },
+        {
+          "curso": "Transferencia de Masa II",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": "Dr. Percy Danilo Aguilar Rojas"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo IX - A",
+      "ciclo": "IX",
+      "grupo": "1",
+      "seccion": "A",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya",
+          "t": 0,
+          "p": 20,
+          "l": 0
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "docente": "Dr. Luis David Moncada Torres",
+          "t": 3,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "docente": "Ms. Willian Antonio Blas Roeder",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-1",
+          "subgrupo": "G1",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": "Dr. Croswel Eduardo Aguilar Quiroz"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "09:00",
+          "fin": "12:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": "Ms. Willian Antonio Blas Roeder"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "09:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya"
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": "I-1",
+          "subgrupo": null,
+          "docente": "Ms. Willian Antonio Blas Roeder"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Laboratorio",
+          "dia": "Jueves",
+          "inicio": "11:00",
+          "fin": "13:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Dr. Luis David Moncada Torres"
+        },
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "tipo": "Práctica",
+          "dia": "Lunes",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G1",
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya"
+        },
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G2",
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya"
+        },
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": "G3",
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya"
+        },
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "16:00",
+          "fin": "20:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Jorge Zamalloa Barrera / Dr. Antonio Otoya"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo IX - B",
+      "ciclo": "IX",
+      "grupo": "2",
+      "seccion": "B",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Prácticas Pre-Profesionales",
+          "docente": "NO HAY SECCIÓN B",
+          "t": 0,
+          "p": 20,
+          "l": 0
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "docente": "Ms. Paul Henry Esquerre Pereyra",
+          "t": 3,
+          "p": 2,
+          "l": 2
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "docente": "Dr. Pedro Quiñones Paredes",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "docente": "Dr. Antonio Manuel Otoya Zelada",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Dr. Pedro Quiñones Paredes"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "14:00",
+          "fin": "17:00",
+          "aula": "Q-4",
+          "subgrupo": null,
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "Q-4",
+          "subgrupo": "G2",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-5",
+          "subgrupo": "G1",
+          "docente": "Dr. Pedro Quiñones Paredes"
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "tipo": "Teoría",
+          "dia": "Jueves",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Dr. Antonio Manuel Otoya Zelada"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "I-5",
+          "subgrupo": "G2",
+          "docente": "Dr. Pedro Quiñones Paredes"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "I-1",
+          "subgrupo": "G1",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Desarrollo y Evaluación de Proyectos",
+          "tipo": "Práctica",
+          "dia": "Jueves",
+          "inicio": "16:00",
+          "fin": "18:00",
+          "aula": "Q-1",
+          "subgrupo": null,
+          "docente": "Dr. Antonio Manuel Otoya Zelada"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Práctica",
+          "dia": "Lunes",
+          "inicio": "17:00",
+          "fin": "19:00",
+          "aula": "Q-4",
+          "subgrupo": "G1",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        },
+        {
+          "curso": "Diseño de Plantas Químicas",
+          "tipo": "Laboratorio",
+          "dia": "Miércoles",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "I-1",
+          "subgrupo": "G2",
+          "docente": "Ms. Paul Henry Esquerre Pereyra"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo IX - C",
+      "ciclo": "IX",
+      "grupo": "3",
+      "seccion": "C",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Seminario de Tesis I",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Teoría",
+          "dia": "Lunes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": null,
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Martes",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-2",
+          "subgrupo": "G1",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "07:00",
+          "fin": "09:00",
+          "aula": "Q-5",
+          "subgrupo": "G2",
+          "docente": "Ms. Manuel Omar Díaz Rodríguez"
+        }
+      ]
+    },
+    {
+      "hoja": "Ciclo IX - D",
+      "ciclo": "IX",
+      "grupo": "4",
+      "seccion": "D",
+      "anio": "2026",
+      "semestre": "I",
+      "periodo": "13/04/2026 al 08/05/2026",
+      "cursos": [
+        {
+          "curso": "Seminario de Tesis I",
+          "docente": "Ms. Johony Ramón Cubas García",
+          "t": 2,
+          "p": 2,
+          "l": 0
+        }
+      ],
+      "sesiones": [
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Teoría",
+          "dia": "Martes",
+          "inicio": "09:00",
+          "fin": "11:00",
+          "aula": null,
+          "subgrupo": null,
+          "docente": "Ms. Johony Ramón Cubas García"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Viernes",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "aula": "Q-5",
+          "subgrupo": "G2",
+          "docente": "Ms. Johony Ramón Cubas García"
+        },
+        {
+          "curso": "Seminario de Tesis I",
+          "tipo": "Práctica",
+          "dia": "Miércoles",
+          "inicio": "18:00",
+          "fin": "20:00",
+          "aula": "Q-4",
+          "subgrupo": "G1",
+          "docente": "Ms. Johony Ramón Cubas García"
+        }
+      ]
+    }
+  ]
+}
