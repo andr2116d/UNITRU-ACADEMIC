@@ -1,0 +1,5 @@
+titulo: UNITRU Academic
+orden: 2
+es: Dashboard académico para estudiantes de la UNT que automatiza el SUV, predice notas y optimiza horarios.
+en: Academic dashboard for UNT students that automates the university portal, predicts grades and optimizes schedules.
+stack: [FastAPI, Playwright, Next.js, Docker]
